@@ -16,16 +16,27 @@ Exploring Data with Looker: GSP346 Challenge Lab solution
 https://youtu.be/GwvM-Fcf4YE
 
 Exploring Data with Looker: Challenge Lab GSP346
+
 ⏱ Timestamps ⏱
+
 ├ 00:00 Start Lab
+
 ├ 00:15 Log in to Looker
+
 ├ 01:04  Task 1. Create Looks
+
 ├─ 01:04 Look #1: Most Heliports by State
+
 ├─ 02:50 Look #2: Facility Type Breakdown
+
 ├─ 03:52 Look #3: Percentage Cancelled
+
 ├─ 06:51 Look #4: Smallest Average Distance (*newly added*)
+
 ├ 09:37 Task 2. Merge Results
+
 ├ 13:13 Task 3. Save Looks to a Dashboard
+
 ├ 15:12 Completed!
 
 Complete this 1-hour quest in 16 minutes!
