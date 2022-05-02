@@ -11,6 +11,6 @@ Looker is a modern data platform in Google Cloud that lets you analyze and visua
 With Looker and Google Cloud, you can deliver actionable business insights at the point of decision, create new value streams, and infuse data into products and workflows to move the business forward.
 
 
-## GSP346 Challenge Lab solution in YouTube
+## Tutorials in YouTube
 Exploring Data with Looker: GSP346 Challenge Lab solution
 https://youtu.be/GwvM-Fcf4YE
