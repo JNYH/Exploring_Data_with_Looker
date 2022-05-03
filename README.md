@@ -5,10 +5,13 @@ Earn a skill badge by completing the Exploring Data with Looker quest, where you
 A skill badge is an exclusive digital badge issued by Google Cloud in recognition of your proficiency with Google Cloud products and services and tests your ability to apply your knowledge in an interactive hands-on environment. Complete this skill badge quest and the final assessment challenge lab to receive a skill badge that you can share with your network.
 
 
+## What is Google Looker?
 Looker is a modern data platform in Google Cloud that lets you analyze and visualize your data interactively. You can use Looker to do in-depth data analysis, integrate insights across different data sources, build actionable data-driven workflows, and create custom data applications. 
 
 
 With Looker and Google Cloud, you can deliver actionable business insights at the point of decision, create new value streams, and infuse data into products and workflows to move the business forward.
+
+Visualisation with Looker https://youtu.be/duQzCa51AlY
 
 
 ## Tutorials in YouTube
