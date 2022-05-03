@@ -6,12 +6,12 @@ A skill badge is an exclusive digital badge issued by Google Cloud in recognitio
 
 
 ## What is Google Looker?
-Looker is a modern data platform in Google Cloud that lets you analyze and visualize your data interactively. You can use Looker to do in-depth data analysis, integrate insights across different data sources, build actionable data-driven workflows, and create custom data applications. 
+Visualisation with Looker https://youtu.be/duQzCa51AlY
 
+Looker is a modern data platform in Google Cloud that lets you analyze and visualize your data interactively. You can use Looker to do in-depth data analysis, integrate insights across different data sources, build actionable data-driven workflows, and create custom data applications. 
 
 With Looker and Google Cloud, you can deliver actionable business insights at the point of decision, create new value streams, and infuse data into products and workflows to move the business forward.
 
-Visualisation with Looker https://youtu.be/duQzCa51AlY
 
 
 ## Tutorials in YouTube
